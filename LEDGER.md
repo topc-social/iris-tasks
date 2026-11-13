@@ -10,3 +10,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 2 | 2026-11-12 | Kamal Khatwani (via Claude) | Work (99%) on #1: Find the #1 complaint paying users have about voice and hands-free Mac apps | 8,910 | provisional | https://github.com/topc-social/iris-tasks/pull/2 |
 | 3 | 2026-11-13 | Kamal Khatwani | Idea (1%) for #4: Raise your hand to dictate with VoiceInk, lower it to paste | 8 | provisional | https://github.com/topc-social/iris-tasks/issues/4 |
 | 4 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on #4: Raise your hand to dictate with VoiceInk, lower it to paste | 792 | provisional | https://github.com/kamal0808/iris/pull/1 |
+| 5 | 2026-11-13 | Kamal Khatwani | Idea (1%) for #3: Control the Mac with webcam hand gestures, first version | 40 | provisional | https://github.com/topc-social/iris-tasks/issues/3 |
+| 6 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on #3: Control the Mac with webcam hand gestures, first version | 3,960 | provisional | https://github.com/kamal0808/iris/pull/1 |
